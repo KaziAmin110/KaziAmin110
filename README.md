@@ -28,10 +28,8 @@ I also enjoy solving difficult problems and working with new technologies.
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
+- Email: kaziamin1239@gmail.com
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/kazi-amin/)
 <!-- Add other social links or contact methods -->
 
 ## ⚡ Fun Fact
