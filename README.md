@@ -29,7 +29,7 @@ I also enjoy solving difficult problems and working with new technologies.
 ## 📫 How to reach me
 
 - Email: kaziamin1239@gmail.com
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/kazi-amin/)
+- LinkedIn: https://www.linkedin.com/in/kazi-amin/
 <!-- Add other social links or contact methods -->
 
 ## ⚡ Fun Fact
