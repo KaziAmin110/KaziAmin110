@@ -11,8 +11,8 @@ I also enjoy solving difficult problems and working with new technologies.
 
 ## 🛠️ Skills & Tools
 
-- Programming: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
+- Programming: Typescript, Python, C++
+- Frameworks: Next.js, React, Node.js, Django
 - Tools: Git, Docker, VS Code
 
 <!-- Add or remove skills as needed -->
@@ -21,10 +21,6 @@ I also enjoy solving difficult problems and working with new technologies.
 
 - [ ] Advanced TypeScript
 - [ ] Cloud computing with AWS
-
-## 📈 GitHub Stats
-
-![Kazi Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaziAmin110&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
