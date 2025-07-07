@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm an aspiring software engineer with a passion for solving real world problems and adding value to individuals and businesses alike. 
+I'm an aspiring software engineer with a passion for solving real world problems and creating innovative products.
 
 <!-- Feel free to personalize this section with your own bio! -->
 
