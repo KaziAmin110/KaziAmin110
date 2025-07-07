@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to build, learn, and contribute to projects which have real world impact.  
-I also enjoy solving difficult problems and working with new technologies.
+I'm an aspiring software engineer with a passion for solving real world problems and adding value to individuals and businesses alike. 
 
 <!-- Feel free to personalize this section with your own bio! -->
 
